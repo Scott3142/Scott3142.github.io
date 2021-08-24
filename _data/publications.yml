@@ -16,6 +16,13 @@ bc:
 
 cu:
 
+  - authors: <strong>S. Morgan, C. Davies &amp; C. Thomas</strong>
+    title: |
+      Control of stationary convective instabilities in the rotating disk boundary layer via time-periodic modulation
+    year: 2021
+    journal: Journal of Fluid Mechanics
+    url: https://doi.org/10.1017/jfm.2021.679
+
   - authors: <strong>S. Morgan &amp; C. Davies</strong>
     title: |
       Linear stability eigenmodal analysis for steady and temporally periodic boundary-layerflow configurations using a velocity-vorticity formulation
