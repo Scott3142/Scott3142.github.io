@@ -30,10 +30,10 @@ cu:
     journal: Journal of Computational Physics
     url: https://doi.org/10.1016/j.jcp.2020.109325
 
-  - authors: <strong>S. Morgan &amp; C. Davies</strong>
+  - authors: <strong>S. Morgan, C. Davies &amp; C. Thomas</strong>
     title: |
-      Stability of rotating disk boundary layers with a periodically modulated rotation rate
-    year: 2020
+      Impulse response of linear convective and absolute disturbances in the rotating disk boundary layer with time-periodic modulation
+    year: 2021
     journal: (in draft)
 
   - authors: <strong>S. Morgan</strong>
